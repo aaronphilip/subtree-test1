@@ -1,0 +1,2 @@
+This is the content in file1 which lives in the not-shared directory that
+we don't want to share.
