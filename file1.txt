@@ -1,2 +1,2 @@
-This is the content of file1 which lives in the root directory 
+This is the content of file1 whichlives in the root directory 
 that we don't want to share.
